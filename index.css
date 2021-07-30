@@ -98,12 +98,12 @@ body {
   text-align: center;
   color:#0077b5;
   margin: 20px 0 20px 0;
-  font-size: 1.5vw;
+  font-size: 1.9vw;
 }
 .bottom{  
   position: absolute;
   top: 8px;
-  left: 40%;
+  left: 45%;
 }
 .footer{
     margin: auto;
