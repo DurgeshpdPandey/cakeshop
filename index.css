@@ -6,6 +6,7 @@
     height: auto;
     color: blue;
 }
+
 .logo{
     margin: 0;
     padding: 0;
@@ -20,11 +21,13 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   width: 100%;
+  font-size: 1.5vw !important;
 }
-marquee{
-  font-size: 40px;
+.marquee{
+  font-size: 2.9rem;
   color: #0077b5;
   font-family: cursive;
+ 
 }
 
 /* Float four columns side by side */
@@ -34,7 +37,7 @@ marquee{
   padding: 0 10px;  
   margin-top: 25px;
 }
-.column,.p{
+.column p{
   color: #0077b5;
   font-family: cursive;
 }
@@ -70,8 +73,8 @@ marquee{
   max-width: 400px;
   height: auto;
 }
-.cards:hover{
-  transform: scale(1.1);
+.cards img:hover{
+  transform: scale(1.2);
 }
 .wrapper {
   width: inherit;
@@ -87,8 +90,20 @@ marquee{
   left: 50%;
   transform: translate(-50%, -50%);
   color: #fff;
-  font-size: 2.5rem;
+  font-size: 25px;
   font-family: cursive;
+}
+.ban {
+  position: relative;
+  text-align: center;
+  color:#0077b5;
+  margin: 20px 0 20px 0;
+  font-size: 1.5vw;
+}
+.bottom{  
+  position: absolute;
+  top: 8px;
+  left: 40%;
 }
 .footer{
     margin: auto;
@@ -103,10 +118,9 @@ marquee{
   top: 70%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 1.5rem;
+  font-size: 1.9rem;
 }
 .top-left p{
-  font-family:cursive ;
-  color: rgb(61, 7, 7);
+  color: rgb(9, 4, 82);
   font-weight: bold;
 }
