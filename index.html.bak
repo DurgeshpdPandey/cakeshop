@@ -9,7 +9,9 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+   <link rel="icon" href="/images/favicon.png" type="image/gif" sizes="16x16">
     <title>Cake-Shop</title>
+	
 </head>
 <body>
     <!-- header section start -->
@@ -203,11 +205,11 @@
       <!-- Wrapper for slides -->
       <div class="carousel-inner">
         <div class="item active">
-          <img src="images/demo/collage1.jpg" alt="Los Angeles"  style="width:100%; height: 350px;">
+          <img src="images/demo/collage1.jpg" alt="cakeslide1"  style="width:100%; height: 350px;">
         </div>
   
         <div class="item">
-          <img src="images/demo/collage2.jpg" alt="Chicago" style="width:100%; height: 350px;">
+          <img src="images/demo/collage2.jpg" alt="cakeslide2" style="width:100%; height: 350px;">
         </div>
       
         <!-- <div class="item">
@@ -269,6 +271,12 @@
           <p>Contact-me :</p>
           <p id="contact"><span>&#9742;</span> :+91-8828387079</p>
          <p> <span><img src="images/gmail" alt="" width="30px"> shikhacakeshop@gmail.com</span></p>
+		 <!-- Start of WebFreeCounter Code -->
+		<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zvreqnpq&nd=6&style=71" border="0" alt="visitor counter"></a>
+		<!-- End of WebFreeCounter Code -->
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7848354&style=0001&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a> 
         </div>
       </div>
     </section>
